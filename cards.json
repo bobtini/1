@@ -11,7 +11,7 @@
         "name": {"name": "Hotdog Boss"},
         "type": "Boss",
         "cost": 8,
-        "image": "https://placehold.co/600x840/png?text=Hotdog+Boss",
+        "image": "https://placehold.co/600x840/png?text=Hotdog+Boss%0ALEVEL+%3D+8%0AHP+%3D+6%0AABILITY+%3D+None",
         "hp": 6,
         "ability": "None"
       }
@@ -28,7 +28,7 @@
         "name": {"name": "Element Overlord"},
         "type": "Boss",
         "cost": 6,
-        "image": "https://placehold.co/600x840/png?text=Element+Overlord",
+        "image": "https://placehold.co/600x840/png?text=Element+Overlord%0ALEVEL+%3D+6%0AHP+%3D+6%0AABILITY+%3D+None",
         "hp": 6,
         "ability": "None"
       }
@@ -45,7 +45,7 @@
         "name": {"name": "Ultimate Guard"},
         "type": "Boss",
         "cost": 5,
-        "image": "https://placehold.co/600x840/png?text=Ultimate+Guard",
+        "image": "https://placehold.co/600x840/png?text=Ultimate+Guard%0ALEVEL+%3D+5%0AHP+%3D+6%0AABILITY+%3D+None",
         "hp": 6,
         "ability": "None"
       }
@@ -62,7 +62,7 @@
         "name": {"name": "Joe the Fish"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Joe+the+Fish",
+        "image": "https://placehold.co/600x840/png?text=Joe+the+Fish%0ALEVEL+%3D+1%0APOWER+%3D+125%0AABILITY+%3D+None",
         "power": 125,
         "ability": "None"
       }
@@ -79,7 +79,7 @@
         "name": {"name": "Dan the Mouse"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Dan+the+Mouse",
+        "image": "https://placehold.co/600x840/png?text=Dan+the+Mouse%0ALEVEL+%3D+1%0APOWER+%3D+10%0AABILITY+%3D+None",
         "power": 10,
         "ability": "None"
       }
@@ -96,7 +96,7 @@
         "name": {"name": "Crud"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Crud",
+        "image": "https://placehold.co/600x840/png?text=Crud%0ALEVEL+%3D+1%0APOWER+%3D+120%0AABILITY+%3D+None",
         "power": 120,
         "ability": "None"
       }
@@ -113,7 +113,7 @@
         "name": {"name": "Jim the Special Unicorn"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Jim+the+Special+Unicorn",
+        "image": "https://placehold.co/600x840/png?text=Jim+the+Special+Unicorn%0ALEVEL+%3D+1%0APOWER+%3D+100%0AABILITY+%3D+None",
         "power": 100,
         "ability": "None"
       }
@@ -131,7 +131,7 @@
         "name": {"name": "King Jim"},
         "type": "Bodyguard",
         "cost": 2,
-        "image": "https://placehold.co/600x840/png?text=King+Jim",
+        "image": "https://placehold.co/600x840/png?text=King+Jim%0ALEVEL+%3D+2%0APOWER+%3D+140%0AABILITY+%3D+On+death%3A+Summon+Peasant+Boy+into+play+for+free",
         "power": 140,
         "ability": "On death: Summon Peasant Boy into play for free."
       }
@@ -148,7 +148,7 @@
         "name": {"name": "Ice Golem"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Ice+Golem",
+        "image": "https://placehold.co/600x840/png?text=Ice+Golem%0ALEVEL+%3D+4%0APOWER+%3D+240%0AABILITY+%3D+Freeze+a+bodyguard+for+1+turn",
         "power": 240,
         "ability": "Once played: Freeze a bodyguard for 1 turn, preventing it from attacking."
       }
@@ -166,7 +166,7 @@
         "name": {"name": "Dirt J.R"},
         "type": "Bodyguard",
         "cost": 5,
-        "image": "https://placehold.co/600x840/png?text=Dirt+JR",
+        "image": "https://placehold.co/600x840/png?text=Dirt+JR%0ALEVEL+%3D+5%0APOWER+%3D+250%0AABILITY+%3D+On+death%3A+Summon+Dirt+Golem+for+free",
         "power": 250,
         "ability": "On death: Summon Dirt Golem into play for free."
       }
@@ -184,7 +184,7 @@
         "name": {"name": "Flame J.R"},
         "type": "Bodyguard",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Flame+JR",
+        "image": "https://placehold.co/600x840/png?text=Flame+JR%0ALEVEL+%3D+3%0APOWER+%3D+170%0AABILITY+%3D+On+death%3A+Summon+Fire+Golem+for+free",
         "power": 170,
         "ability": "On death: Summon Fire Golem into play for free."
       }
@@ -201,7 +201,7 @@
         "name": {"name": "Tim the Rat"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Tim+the+Rat",
+        "image": "https://placehold.co/600x840/png?text=Tim+the+Rat%0ALEVEL+%3D+1%0APOWER+%3D+125%0AABILITY+%3D+None",
         "power": 125,
         "ability": "None"
       }
@@ -217,7 +217,7 @@
         "name": {"name": "Big Sacrifice"},
         "type": "Tool",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Big+Sacrifice",
+        "image": "https://placehold.co/600x840/png?text=Big+Sacrifice%0ALEVEL+%3D+4%0AABILITY+%3D+Lose+1+Boss+HP%2C+then+play+1+card+from+your+Void+for+free",
         "ability": "Lose 1 Boss HP, then look in your Void and play one card from it for free."
       }
     }
@@ -234,7 +234,7 @@
         "name": {"name": "Electro J.R"},
         "type": "Bodyguard",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Electro+JR",
+        "image": "https://placehold.co/600x840/png?text=Electro+JR%0ALEVEL+%3D+3%0APOWER+%3D+150%0AABILITY+%3D+On+death%3A+Summon+Electric+Golem+for+free",
         "power": 150,
         "ability": "On death: Summon Electric Golem into play for free."
       }
@@ -252,7 +252,7 @@
         "name": {"name": "Ice J.R"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Ice+JR",
+        "image": "https://placehold.co/600x840/png?text=Ice+JR%0ALEVEL+%3D+4%0APOWER+%3D+200%0AABILITY+%3D+On+death%3A+Summon+Ice+Golem+for+free",
         "power": 200,
         "ability": "On death: Summon Ice Golem into play for free."
       }
@@ -269,7 +269,7 @@
         "name": {"name": "Peasant Boy"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Peasant+Boy",
+        "image": "https://placehold.co/600x840/png?text=Peasant+Boy%0ALEVEL+%3D+1%0APOWER+%3D+125%0AABILITY+%3D+None",
         "power": 125,
         "ability": "None"
       }
@@ -286,7 +286,7 @@
         "name": {"name": "Water Golem"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Water+Golem",
+        "image": "https://placehold.co/600x840/png?text=Water+Golem%0ALEVEL+%3D+4%0APOWER+%3D+175%0AABILITY+%3D+Destroy+the+bodyguard+that+killed+this+card",
         "power": 175,
         "ability": "On death: Destroy the bodyguard that killed this card."
       }
@@ -303,7 +303,7 @@
         "name": {"name": "Dragone"},
         "type": "Bodyguard",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Dragone",
+        "image": "https://placehold.co/600x840/png?text=Dragone%0ALEVEL+%3D+3%0APOWER+%3D+200%0AABILITY+%3D+Give+any+bodyguard+%2B50+power+for+1+turn",
         "power": 200,
         "ability": "On death: Give any bodyguard +50 power for 1 turn."
       }
@@ -320,7 +320,7 @@
         "name": {"name": "Pedro"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Pedro",
+        "image": "https://placehold.co/600x840/png?text=Pedro%0ALEVEL+%3D+1%0APOWER+%3D+130%0AABILITY+%3D+None",
         "power": 130,
         "ability": "None"
       }
@@ -337,7 +337,7 @@
         "name": {"name": "Fire Golem"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Fire+Golem",
+        "image": "https://placehold.co/600x840/png?text=Fire+Golem%0ALEVEL+%3D+4%0APOWER+%3D+200%0AABILITY+%3D+If+even%2C+void+the+opponent%27s+lowest-power+bodyguard",
         "power": 200,
         "ability": "On death: Roll a die. If even, void the opponent's lowest-power bodyguard."
       }
@@ -353,7 +353,7 @@
         "name": {"name": "Black Hole"},
         "type": "Tool",
         "cost": 2,
-        "image": "https://placehold.co/600x840/png?text=Black+Hole",
+        "image": "https://placehold.co/600x840/png?text=Black+Hole%0ALEVEL+%3D+2%0AABILITY+%3D+Void+one+of+your+cards+and+summon+one+of+the+same+level",
         "ability": "Void one of your cards in play and summon a card of the same level."
       }
     }
@@ -369,7 +369,7 @@
         "name": {"name": "Dirt Golem"},
         "type": "Bodyguard",
         "cost": 5,
-        "image": "https://placehold.co/600x840/png?text=Dirt+Golem",
+        "image": "https://placehold.co/600x840/png?text=Dirt+Golem%0ALEVEL+%3D+5%0APOWER+%3D+310%0AABILITY+%3D+Once+per+turn%3A+On+a+1%2C+void+opponent%27s+lowest+bodyguard",
         "power": 310,
         "ability": "Once per turn: Roll a die. On a 1, void the opponent's lowest-power bodyguard."
       }
@@ -386,7 +386,7 @@
         "name": {"name": "Electric Golem"},
         "type": "Bodyguard",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Electric+Golem",
+        "image": "https://placehold.co/600x840/png?text=Electric+Golem%0ALEVEL+%3D+3%0APOWER+%3D+230%0AABILITY+%3D+Reduce+opponent%27s+next+dice+roll+by+1",
         "power": 230,
         "ability": "On death: Reduce the opponent's next dice roll by 1."
       }
@@ -403,7 +403,7 @@
         "name": {"name": "Glubinator"},
         "type": "Bodyguard",
         "cost": 6,
-        "image": "https://placehold.co/600x840/png?text=Glubinator",
+        "image": "https://placehold.co/600x840/png?text=Glubinator%0ALEVEL+%3D+6%0APOWER+%3D+300%0AABILITY+%3D+Gain+50+power+for+every+Glub+in+your+Void",
         "power": 300,
         "ability": "Once played: Gain 50 power for every Glub in your Void."
       }
@@ -420,7 +420,7 @@
         "name": {"name": "Uncle Terry"},
         "type": "Bodyguard",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Uncle+Terry",
+        "image": "https://placehold.co/600x840/png?text=Uncle+Terry%0ALEVEL+%3D+3%0APOWER+%3D+0%0AABILITY+%3D+Power+becomes+50+times+the+die+result",
         "power": 0,
         "ability": "Once played: Roll a die. This card's power becomes 50 times the result."
       }
@@ -436,7 +436,7 @@
         "name": {"name": "Elemental Sword"},
         "type": "Tool",
         "cost": 5,
-        "image": "https://placehold.co/600x840/png?text=Elemental+Sword",
+        "image": "https://placehold.co/600x840/png?text=Elemental+Sword%0ALEVEL+%3D+5%0AABILITY+%3D+Destroy+all+Golems+and+J.R+cards+in+play",
         "ability": "Destroy all elemental cards in play: all Golems and J.R cards."
       }
     }
@@ -452,7 +452,7 @@
         "name": {"name": "Dice Ghost"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Dice+Ghost",
+        "image": "https://placehold.co/600x840/png?text=Dice+Ghost%0ALEVEL+%3D+4%0APOWER+%3D+200%0AABILITY+%3D+Use+opponent%27s+last+dice+roll+on+your+next+turn",
         "power": 200,
         "ability": "On death: You may use the opponent's last dice roll on your next turn."
       }
@@ -470,7 +470,7 @@
         "name": {"name": "Rich Boy"},
         "type": "Bodyguard",
         "cost": 2,
-        "image": "https://placehold.co/600x840/png?text=Rich+Boy",
+        "image": "https://placehold.co/600x840/png?text=Rich+Boy%0ALEVEL+%3D+2%0APOWER+%3D+120%0AABILITY+%3D+Summon+Butler+into+play",
         "power": 120,
         "ability": "Once played: Summon Butler into play."
       }
@@ -486,7 +486,7 @@
         "name": {"name": "Element Machine"},
         "type": "Tool",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Element+Machine",
+        "image": "https://placehold.co/600x840/png?text=Element+Machine%0ALEVEL+%3D+3%0AABILITY+%3D+If+even%2C+elemental+cards+gain+100+power+permanently",
         "ability": "Roll a die. If even, permanently increase elemental cards' power by 100."
       }
     }
@@ -502,7 +502,7 @@
         "name": {"name": "Butler"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Butler",
+        "image": "https://placehold.co/600x840/png?text=Butler%0ALEVEL+%3D+4%0APOWER+%3D+275%0AABILITY+%3D+Only+playable+when+summoned+by+Rich+Boy",
         "power": 275,
         "ability": "Can only be played when summoned by Rich Boy."
       }
@@ -519,7 +519,7 @@
         "name": {"name": "Wind Golem"},
         "type": "Bodyguard",
         "cost": 4,
-        "image": "https://placehold.co/600x840/png?text=Wind+Golem",
+        "image": "https://placehold.co/600x840/png?text=Wind+Golem%0ALEVEL+%3D+4%0APOWER+%3D+190%0AABILITY+%3D+Reduce+opponent%27s+next+dice+roll+by+2",
         "power": 190,
         "ability": "On death: Reduce the opponent's next dice roll by 2."
       }
@@ -535,7 +535,7 @@
         "name": {"name": "Lucky Dice"},
         "type": "Tool",
         "cost": 2,
-        "image": "https://placehold.co/600x840/png?text=Lucky+Dice",
+        "image": "https://placehold.co/600x840/png?text=Lucky+Dice%0ALEVEL+%3D+2%0AABILITY+%3D+Add+2+to+your+next+dice+roll",
         "ability": "Add 2 to your next dice roll."
       }
     }
@@ -551,7 +551,7 @@
         "name": {"name": "Frankenstein"},
         "type": "Bodyguard",
         "cost": 2,
-        "image": "https://placehold.co/600x840/png?text=Frankenstein",
+        "image": "https://placehold.co/600x840/png?text=Frankenstein%0ALEVEL+%3D+2%0APOWER+%3D+145%0AABILITY+%3D+Look+at+top+card%3B+keep+top+or+put+on+bottom",
         "power": 145,
         "ability": "Once per turn: Look at the top card of your deck. Keep it on top or put it on the bottom."
       }
@@ -568,7 +568,7 @@
         "name": {"name": "Krud"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Krud",
+        "image": "https://placehold.co/600x840/png?text=Krud%0ALEVEL+%3D+1%0APOWER+%3D+100%0AABILITY+%3D+None",
         "power": 100,
         "ability": "None"
       }
@@ -585,7 +585,7 @@
         "name": {"name": "Glub"},
         "type": "Bodyguard",
         "cost": 1,
-        "image": "https://placehold.co/600x840/png?text=Glub",
+        "image": "https://placehold.co/600x840/png?text=Glub%0ALEVEL+%3D+1%0APOWER+%3D+0%0AABILITY+%3D+Power+becomes+30+times+the+die+result",
         "power": 0,
         "ability": "Once played: Roll a die. This card's power becomes 30 times the result."
       }
@@ -602,7 +602,7 @@
         "name": {"name": "Time Machine"},
         "type": "Bodyguard",
         "cost": 3,
-        "image": "https://placehold.co/600x840/png?text=Time+Machine",
+        "image": "https://placehold.co/600x840/png?text=Time+Machine%0ALEVEL+%3D+3%0APOWER+%3D+160%0AABILITY+%3D+Make+your+opponent+reroll+their+dice",
         "power": 160,
         "ability": "Once played: Make your opponent reroll their dice."
       }
@@ -619,11 +619,10 @@
         "name": {"name": "Doggo"},
         "type": "Bodyguard",
         "cost": 6,
-        "image": "https://placehold.co/600x840/png?text=Doggo",
+        "image": "https://placehold.co/600x840/png?text=Doggo%0ALEVEL+%3D+6%0APOWER+%3D+350%0AABILITY+%3D+None",
         "power": 350,
         "ability": "None"
       }
     }
   }
 }
-
