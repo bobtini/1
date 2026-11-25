@@ -145,7 +145,7 @@
   },
 
   "cards": {
-    "dataUrl": "https://YOUR-GITHUB-USERNAME.github.io/blammo-tcg/cards.json",
+    "dataUrl": "https://github.com/bobtini/blammo-tcg/blob/main/cards.json",
     "cardBack": "https://placehold.co/600x840/png?text=BLAMMO"
   }
 }
