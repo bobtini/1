@@ -1,1 +1,152 @@
 
+{
+  "name": "Blammo TCG",
+
+  "customHelp": "BLAMMO TCG - OFFICIAL RULES\n\nDECK: 31 cards total. Exactly 1 Boss and 30 Bodyguards and Tools. Maximum 5 copies of each card.\n\nBOSS: Each Boss has 6 HP. Boss levels do not affect gameplay.\n\nHAND: Start with 3 cards. After playing a card, draw 1 card. Maintain 3 cards in your hand.\n\nTURNS: Roll a six-sided die at the start of your turn. The result determines the maximum level of cards you can play. You may play a maximum of 2 cards per turn.\n\nBODYGUARDS: Maximum 3 Bodyguards in play.\n\nCOMBAT: A Bodyguard can defeat another Bodyguard only if its power is higher. You may combine two Bodyguards' power to defeat a stronger Bodyguard, but the lower-level Bodyguard is voided. Each Bodyguard can attack once per turn.\n\nBOSS ATTACKS: You can attack the Boss only when the opponent has no Bodyguards. Each successful attack deals 1 damage.\n\nVOID: When your Deck runs out, shuffle your Void back into your Deck.\n\nWINNING: Reduce the opponent's Boss HP to zero.\n\nABILITIES: Once Played means immediately or not at all. On Death activates when the card dies. Once can be used once during the card's life. Once Per Turn can be used once each turn.\n\nSome effects must be resolved manually until custom scripts are added.",
+
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "power"
+    ],
+
+    "formats": [
+      {
+        "title": "Blammo Standard",
+        "gameplay": "Blammo",
+        "deckRuleset": "Blammo"
+      }
+    ],
+
+    "deckRulesets": {
+      "Blammo": {
+        "general": {
+          "min": 31,
+          "max": 31,
+          "maxPerCard": 5
+        },
+        "categories": [
+          {
+            "category": "Boss",
+            "min": 1,
+            "max": 1
+          }
+        ]
+      }
+    }
+  },
+
+  "gameplay": {
+    "Blammo": {
+      "mulligan": {
+        "startingHandSize": 3,
+        "mulliganCount": {
+          "max": 0
+        }
+      },
+
+      "newTurn": {
+        "drawPerTurn": 0
+      },
+
+      "beforeGameStart": {
+        "boardCardSelection": [
+          {
+            "category": "Boss",
+            "min": 1,
+            "max": 1,
+            "unselectedDestination": "Void"
+          }
+        ]
+      },
+
+      "countersStartingValues": [
+        6
+      ],
+
+      "defaultNotes": "Boss HP: 6\nDice roll: 0\nCards played this turn: 0\nBodyguards in play: 0\nAttacks used: 0",
+
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "section": "Boss"
+            },
+            {
+              "section": "Bodyguards"
+            },
+            {
+              "section": "Tools"
+            },
+            {
+              "section": "Hand"
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Deck"
+                },
+                {
+                  "section": "Void"
+                }
+              ]
+            }
+          ]
+        },
+
+        "sectionsDict": {
+          "Boss": {
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "displayedTitle": "BOSS - 6 HP"
+          },
+
+          "Bodyguards": {
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "displayedTitle": "BODYGUARDS - MAXIMUM 3"
+          },
+
+          "Tools": {
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "displayedTitle": "TOOLS"
+          },
+
+          "Hand": {
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "displayedTitle": "HAND"
+          },
+
+          "Deck": {
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "displayedTitle": "DECK"
+          },
+
+          "Void": {
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "displayedTitle": "VOID"
+          }
+        }
+      }
+    }
+  },
+
+  "cards": {
+    "dataUrl": "https://YOUR-GITHUB-USERNAME.github.io/blammo-tcg/cards.json",
+    "cardBack": "https://placehold.co/600x840/png?text=BLAMMO"
+  }
+}
+
